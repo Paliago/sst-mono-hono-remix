@@ -1,0 +1,12 @@
+{
+  "name": "@lagom-popcorn/functions",
+  "type": "module",
+  "version": "0.0.0",
+  "dependencies": {
+    "@lagom-popcorn/core": "workspace:*",
+    "hono": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
