@@ -15,6 +15,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "sst": "^3.0.13"
+    "sst": "ion"
   }
 }
